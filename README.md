@@ -31,8 +31,9 @@ This project has the ability for users to create an AI models, list them and buy
 
 
 ## Screenshots
-![img_1.png](img_1.png)
-![img.png](img.png)
+![image](https://github.com/user-attachments/assets/048a664c-0c1f-4b5f-9160-6626890c8b3a)
+![image](https://github.com/user-attachments/assets/c35a0580-58cd-4c41-b49d-efcdbc740263)
+
 
 ## License
 
